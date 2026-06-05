@@ -1,0 +1,16 @@
+OrderID,Product,Category,Quantity,Price,Sales
+1,Laptop,Electronics,2,50000,100000
+2,Mobile,Electronics,3,20000,60000
+3,Tablet,Electronics,1,30000,30000
+4,Headphones,Accessories,5,2000,10000
+5,Keyboard,Accessories,4,1500,6000
+6,Laptop,Electronics,1,50000,50000
+7,Mobile,Electronics,2,20000,40000
+8,Mouse,Accessories,6,800,4800
+9,Tablet,Electronics,2,30000,60000
+10,Keyboard,Accessories,3,1500,4500
+11,Laptop,Electronics,1,50000,50000
+12,Headphones,Accessories,2,2000,4000
+13,Mobile,Electronics,4,20000,80000
+14,Mouse,Accessories,5,800,4000
+15,Tablet,Electronics,1,30000,30000
